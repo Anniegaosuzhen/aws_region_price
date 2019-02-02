@@ -16,6 +16,11 @@ AWS_China_NingXia_Region_Price
 在AWS宁夏区域传输费图解 明细
 <img src="https://github.com/Anniegaosuzhen/aws_region_price/blob/master/%E5%AE%81%E5%A4%8F%E6%B5%81%E9%87%8F%E8%B4%B9%E7%94%A820190202.png" />
 
+总结：
+ 1，传入费用不收费 
+ 2，不同可用区间公有子网或者私有子网之间的传输有费用，使用公网IP或者弹性IP传入传出都有费用
+ 3，区域间传输有费用
+ 4，专有线路传输有费用，另外有端口的使用费用
 
 参考
 <br>https://www.amazonaws.cn/directconnect/pricing/
