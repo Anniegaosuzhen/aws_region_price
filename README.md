@@ -14,7 +14,7 @@ AWS_China_NingXia_Region_Price
 
 
 在AWS宁夏区域传输费图解 明细
-<image>https://github.com/Anniegaosuzhen/aws_region_price/blob/master/%E5%AE%81%E5%A4%8F%E6%B5%81%E9%87%8F%E8%B4%B9%E7%94%A820190202.png
+<image https://github.com/Anniegaosuzhen/aws_region_price/blob/master/%E5%AE%81%E5%A4%8F%E6%B5%81%E9%87%8F%E8%B4%B9%E7%94%A820190202.png >
 
 
 参考
