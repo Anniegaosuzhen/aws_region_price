@@ -1,4 +1,4 @@
-AWS_Region_Price
+AWS_China_NingXia_Region_Price
 
 更新时间: 2019/02/02
 
@@ -15,3 +15,7 @@ AWS_Region_Price
 
 在AWS宁夏区域传输费图解 明细
 
+
+参考
+https://www.amazonaws.cn/directconnect/pricing/
+https://www.amazonaws.cn/ec2/pricing/
