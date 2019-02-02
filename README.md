@@ -2,7 +2,7 @@
 
 更新时间: 2019/02/02
 
-# 在AWS宁夏区域传输费图解
+# AWS China NingXia Region Transfer Charges Diagram
 
 # 免责说明
 <br>此价格是2019年2月2日截至的费用，仅供参考
