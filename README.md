@@ -1,2 +1,10 @@
-# aws_region_price
-aws_region_price
+更新时间: 2018/10/20 
+
+在AWS宁夏区域快速构建SAP S/4 HANA系统
+
+免责说明
+建议测试过程中使用此方案，生产环境使用请自行考虑评估。
+当您对方案需要进一步的沟通和反馈后，可以联系 nwcd_labs@nwcdcloud.cn 获得更进一步的支持。
+欢迎联系参与方案共建和提交方案需求, 也欢迎在 github 项目issue中留言反馈bugs。
+
+项目说明
