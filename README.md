@@ -1,4 +1,4 @@
-AWS_China_NingXia_Region_Price
+ <p style="font-weight:bold;">AWS_China_NingXia_Region_Price</p>
 
 更新时间: 2019/02/02
 
